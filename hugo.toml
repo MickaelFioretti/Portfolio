@@ -51,7 +51,7 @@ enableRobotsTXT = true
   avatarSize = ""
 
   # Description to display on homepage
-  description = "Sky above, sand below & peace within"
+  description = "Software Developer"
 
   # Accent color is displayed when you hover over <a> tags
   accentColor = "#FF4D4D"
@@ -73,7 +73,13 @@ enableRobotsTXT = true
 
   # SocialIcons
   socialIcons = [
-    {name = "linkedin", url = "https://example.com"},
-    {name = "github", url = "https://example.com"},
+    {name = "linkedin", url = "https://www.linkedin.com/in/mickael-fioretti-2b20961b2/"},
+    {name = "github", url = "https://github.com/MickaelFioretti"},
     {name = "email", url = "mailto:fioretti.mickael@proton.me"},
   ]
+
+[markup]
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 3
+    ordered = false
