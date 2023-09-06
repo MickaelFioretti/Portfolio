@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Mickael Fioretti</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on Mickael Fioretti</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 19 Jun 2023 22:00:00 +0200</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>design</title>
+      <link>http://example.org/tags/design/</link>
+      <pubDate>Mon, 19 Jun 2023 22:00:00 +0200</pubDate>
+      
+      <guid>http://example.org/tags/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>front</title>
+      <link>http://example.org/tags/front/</link>
+      <pubDate>Mon, 19 Jun 2023 22:00:00 +0200</pubDate>
+      
+      <guid>http://example.org/tags/front/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>openClassrooms</title>
+      <link>http://example.org/tags/openclassrooms/</link>
+      <pubDate>Mon, 19 Jun 2023 22:00:00 +0200</pubDate>
+      
+      <guid>http://example.org/tags/openclassrooms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>http://example.org/tags/python/</link>
+      <pubDate>Mon, 19 Jun 2023 22:00:00 +0200</pubDate>
+      
+      <guid>http://example.org/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stream</title>
+      <link>http://example.org/tags/stream/</link>
+      <pubDate>Mon, 19 Jun 2023 22:00:00 +0200</pubDate>
+      
+      <guid>http://example.org/tags/stream/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web</title>
+      <link>http://example.org/tags/web/</link>
+      <pubDate>Mon, 19 Jun 2023 22:00:00 +0200</pubDate>
+      
+      <guid>http://example.org/tags/web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chess</title>
+      <link>http://example.org/tags/chess/</link>
+      <pubDate>Fri, 09 Jun 2023 22:00:00 +0200</pubDate>
+      
+      <guid>http://example.org/tags/chess/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MVC</title>
+      <link>http://example.org/tags/mvc/</link>
+      <pubDate>Fri, 09 Jun 2023 22:00:00 +0200</pubDate>
+      
+      <guid>http://example.org/tags/mvc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>software</title>
+      <link>http://example.org/tags/software/</link>
+      <pubDate>Fri, 09 Jun 2023 22:00:00 +0200</pubDate>
+      
+      <guid>http://example.org/tags/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UI</title>
+      <link>http://example.org/tags/ui/</link>
+      <pubDate>Thu, 02 Feb 2023 22:00:00 +0200</pubDate>
+      
+      <guid>http://example.org/tags/ui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UX</title>
+      <link>http://example.org/tags/ux/</link>
+      <pubDate>Thu, 02 Feb 2023 22:00:00 +0200</pubDate>
+      
+      <guid>http://example.org/tags/ux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wireframe</title>
+      <link>http://example.org/tags/wireframe/</link>
+      <pubDate>Thu, 02 Feb 2023 22:00:00 +0200</pubDate>
+      
+      <guid>http://example.org/tags/wireframe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scraping</title>
+      <link>http://example.org/tags/scraping/</link>
+      <pubDate>Thu, 03 Nov 2022 22:00:00 +0200</pubDate>
+      
+      <guid>http://example.org/tags/scraping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>game</title>
+      <link>http://example.org/tags/game/</link>
+      <pubDate>Mon, 23 May 2022 22:00:00 +0200</pubDate>
+      
+      <guid>http://example.org/tags/game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>memory</title>
+      <link>http://example.org/tags/memory/</link>
+      <pubDate>Mon, 23 May 2022 22:00:00 +0200</pubDate>
+      
+      <guid>http://example.org/tags/memory/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

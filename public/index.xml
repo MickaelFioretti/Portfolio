@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mickael Fioretti</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Mickael Fioretti</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 19 Jun 2023 22:00:00 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JustStreamIt</title>
+      <link>http://example.org/posts/juststreamit/</link>
+      <pubDate>Mon, 19 Jun 2023 22:00:00 +0200</pubDate>
+      
+      <guid>http://example.org/posts/juststreamit/</guid>
+      <description>JustStreamIt I have developed the frontend of this project using HTML, CSS and JavaScript. I don&amp;rsquo;t have used any framework.
+Description This is a project from the Python course on OpenClassrooms. The goal is to create a website to watch the best movies. The user can see the list of the best movies and the details of each movie.
+The code is available on GitHub </description>
+    </item>
+    
+    <item>
+      <title>Chess Software</title>
+      <link>http://example.org/posts/chesssoftware/</link>
+      <pubDate>Fri, 09 Jun 2023 22:00:00 +0200</pubDate>
+      
+      <guid>http://example.org/posts/chesssoftware/</guid>
+      <description>Chess Software I have developed this project using Python and the basic for good practices.
+Description This is a project from the Python course on OpenClassrooms. The goal is to create a tournament manager for chess. The user can create tournaments and players. He can also add the results of the matches. The software will calculate the ranking of the players.
+The code is available on GitHub </description>
+    </item>
+    
+    <item>
+      <title>Designez une application</title>
+      <link>http://example.org/posts/designezuneapplication/</link>
+      <pubDate>Thu, 02 Feb 2023 22:00:00 +0200</pubDate>
+      
+      <guid>http://example.org/posts/designezuneapplication/</guid>
+      <description>Designez une application I have developed this project using Figma. I have created the wireframes and user flow and userStories.
+Description This is a project from the UX/UI course on OpenClassrooms. The goal is to design an application for the client.</description>
+    </item>
+    
+    <item>
+      <title>Scraped Books</title>
+      <link>http://example.org/posts/scrapedbooks/</link>
+      <pubDate>Thu, 03 Nov 2022 22:00:00 +0200</pubDate>
+      
+      <guid>http://example.org/posts/scrapedbooks/</guid>
+      <description>Scraped Books I have developed this project using Python and the BeautifulSoup library. I have also used the requests library to get the HTML code of the website.
+Description This is a project from the Python course on OpenClassrooms. The goal is to scrape the website Books to Scrape and to save the data in a CSV file.
+The code is available on GitHub </description>
+    </item>
+    
+    <item>
+      <title>First web project</title>
+      <link>http://example.org/posts/first_post/</link>
+      <pubDate>Mon, 23 May 2022 22:00:00 +0200</pubDate>
+      
+      <guid>http://example.org/posts/first_post/</guid>
+      <description>First web project Memory Game This is a memory game. The player has to find all the pairs of cards. The game ends when all the pairs are found.
+Description I have developed this game using HTML, CSS and JavaScript. In the previous formation, I have learned the basics of these languages. I have also learned how to use the Bootstrap framework. I have used it to make the game responsive.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/index-about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/index-about/</guid>
+      <description>Mickael Fioretti I am a budding software developer currently undergoing an apprenticeship at Drotek, a company specializing in the manufacture of drones for light shows. My role primarily involves web development for the company. Additionally, I am enrolled in OpenClassroom&amp;rsquo;s Python Software Developer program, where I am actively honing my skills and knowledge in software development.
+Skills Languages Framework Tools Python Django, FastAPI Docker Javascript React Git HTML VSCode CSS Bootstrap, Tailwind, SASS Linux SQL MySQL, PostgreSQL Trello NodeJS TypeScript </description>
+    </item>
+    
+  </channel>
+</rss>

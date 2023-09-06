@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>software on Mickael Fioretti</title>
+    <link>http://example.org/tags/software/</link>
+    <description>Recent content in software on Mickael Fioretti</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 09 Jun 2023 22:00:00 +0200</lastBuildDate><atom:link href="http://example.org/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chess Software</title>
+      <link>http://example.org/posts/chesssoftware/</link>
+      <pubDate>Fri, 09 Jun 2023 22:00:00 +0200</pubDate>
+      
+      <guid>http://example.org/posts/chesssoftware/</guid>
+      <description>Chess Software I have developed this project using Python and the basic for good practices.
+Description This is a project from the Python course on OpenClassrooms. The goal is to create a tournament manager for chess. The user can create tournaments and players. He can also add the results of the matches. The software will calculate the ranking of the players.
+The code is available on GitHub </description>
+    </item>
+    
+  </channel>
+</rss>

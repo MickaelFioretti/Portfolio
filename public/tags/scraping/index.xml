@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scraping on Mickael Fioretti</title>
+    <link>http://example.org/tags/scraping/</link>
+    <description>Recent content in scraping on Mickael Fioretti</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 03 Nov 2022 22:00:00 +0200</lastBuildDate><atom:link href="http://example.org/tags/scraping/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scraped Books</title>
+      <link>http://example.org/posts/scrapedbooks/</link>
+      <pubDate>Thu, 03 Nov 2022 22:00:00 +0200</pubDate>
+      
+      <guid>http://example.org/posts/scrapedbooks/</guid>
+      <description>Scraped Books I have developed this project using Python and the BeautifulSoup library. I have also used the requests library to get the HTML code of the website.
+Description This is a project from the Python course on OpenClassrooms. The goal is to scrape the website Books to Scrape and to save the data in a CSV file.
+The code is available on GitHub </description>
+    </item>
+    
+  </channel>
+</rss>
